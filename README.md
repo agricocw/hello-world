@@ -1,2 +1,3 @@
-# hello-world
-Lab - Git (Hello World)
+# About me
+
+My name is Chris Agricola
